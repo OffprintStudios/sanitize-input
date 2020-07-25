@@ -1,0 +1,14 @@
+{
+  "name": "sanitize-input",
+  "version": "1.0.0",
+  "description": "Sanitizes user input to remove harmful HTML and other such potential security risks.",
+  "main": "lib/index.js",
+  "author": "Alyx Mote <figments@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.4.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
