@@ -1,6 +1,4 @@
-//! A native module for sanitizing user inputs and QuillJS Deltas.
-
-mod delta;
+//! A native module for sanitizing user inputs.
 
 use neon::prelude::*;
 
