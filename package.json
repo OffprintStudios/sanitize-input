@@ -1,5 +1,5 @@
 {
-  "name": "sanitize-input",
+  "name": "@offprintstudios/sanitize-input",
   "version": "1.0.0",
   "description": "Sanitizes user input to remove harmful HTML and other such potential security risks.",
   "main": "lib/index.js",
@@ -10,5 +10,23 @@
   },
   "scripts": {
     "install": "neon build"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OffprintStudios/sanitize-input.git"
+  },
+  "keywords": [
+    "sanitize",
+    "input",
+    "delta",
+    "quilljs",
+    "offprint"
+  ],
+  "bugs": {
+    "url": "https://github.com/OffprintStudios/sanitize-input/issues"
+  },
+  "homepage": "https://github.com/OffprintStudios/sanitize-input#readme"
 }
